@@ -1,0 +1,3 @@
+# Ignore build artifacts
+radar-gui/target
+# Ignore IDE files      
